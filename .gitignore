@@ -1,0 +1,9 @@
+content/uploads
+.DS_Store
+Gemfile.lock
+local-config.php
+config/config.rb
+config/deploy/production.rb
+config/deploy/staging.rb
+
+dploy.yaml
